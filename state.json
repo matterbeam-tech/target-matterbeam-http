@@ -1,0 +1,293 @@
+Processing record: {'id': 'eb363654-2004-4db8-bbd2-5b121da4f2a0', 'oracle_id': 'f0cc4b7d-3b52-4a16-8ae7-4e64a682e43d', 'name': 'A-Acererak the Archlich'}
+{"dataset": "scryfall-tap", "dataset_id": "135d3846feb2065e2487f8054424bfca798e0aae"}
+Processing record: {'id': 'c9f1fc97-00c0-492b-a4a3-b179afc2f95d', 'oracle_id': '8dedb9a7-0afa-4dff-b124-2344c170f11a', 'name': 'Abaddon the Despoiler'}
+{"dataset": "scryfall-tap", "dataset_id": "135d3846feb2065e2487f8054424bfca798e0aae"}
+Processing record: {'id': '8a7df52e-fa91-4c2b-a465-47274bf7e6aa', 'oracle_id': '9ffed3f8-31c8-4671-8357-e0ab23b21551', 'name': 'A-Baleful Beholder'}
+{"dataset": "scryfall-tap", "dataset_id": "135d3846feb2065e2487f8054424bfca798e0aae"}
+Processing record: {'id': '942cf220-472c-48f6-8f60-993939ea5ab8', 'oracle_id': '8adbba6e-03ef-4278-aec5-8a4496b377a8', 'name': 'Abandon Hope'}
+{"dataset": "scryfall-tap", "dataset_id": "135d3846feb2065e2487f8054424bfca798e0aae"}
+Processing record: {'id': '43297ddd-276f-4d2d-9d9c-937603d0e376', 'oracle_id': '2b211adb-de44-4468-b65d-907a09aa7e9d', 'name': 'Abattoir Ghoul'}
+{"dataset": "scryfall-tap", "dataset_id": "135d3846feb2065e2487f8054424bfca798e0aae"}
+Processing record: {'id': '4415d050-7a76-4f8b-bf78-e33dd21fe4f1', 'oracle_id': '13f63240-a6bb-4333-a3dd-818725c6fb73', 'name': 'Abhorrent Overlord'}
+{"dataset": "scryfall-tap", "dataset_id": "135d3846feb2065e2487f8054424bfca798e0aae"}
+Processing record: {'id': 'ab76e956-5d6c-49b8-991c-c39d5b18b876', 'oracle_id': '1d96c049-d747-4c98-a5fe-a0c94b6a899c', 'name': 'A-Blood Artist'}
+{"dataset": "scryfall-tap", "dataset_id": "135d3846feb2065e2487f8054424bfca798e0aae"}
+Processing record: {'id': 'de2de2bd-9ba7-4b6f-94c2-dafb2011a48e', 'oracle_id': 'edbf1b87-2d1e-47e6-a04e-a2b1646af7d9', 'name': 'Abnormal Endurance'}
+{"dataset": "scryfall-tap", "dataset_id": "135d3846feb2065e2487f8054424bfca798e0aae"}
+Processing record: {'id': 'a363bc91-8278-448e-9d5c-564e4b51eb62', 'oracle_id': '2c57c4e9-0a46-45d6-92db-9203fb722b60', 'name': 'Abomination'}
+{"dataset": "scryfall-tap", "dataset_id": "135d3846feb2065e2487f8054424bfca798e0aae"}
+Processing record: {'id': '7df9759e-1072-4a6a-be57-f73b15bf3847', 'oracle_id': '3d98af5f-7a0b-4a5a-b3e4-f3c9d150c993', 'name': 'Abomination of Gudul'}
+{"dataset": "scryfall-tap", "dataset_id": "135d3846feb2065e2487f8054424bfca798e0aae"}
+Processing record: {'id': '4b68bc46-5591-44dd-becc-eca154066925', 'oracle_id': '5146ba3f-2c5f-4a86-95d7-a34ce1e842b0', 'name': 'Abomination of Llanowar'}
+{"dataset": "scryfall-tap", "dataset_id": "135d3846feb2065e2487f8054424bfca798e0aae"}
+Processing record: {'id': '74379bab-1bf2-4dcd-b055-d2ac0bf2c390', 'oracle_id': '1c747fe2-289e-492a-a846-aa77707e2dc3', 'name': 'Abrupt Decay'}
+{"dataset": "scryfall-tap", "dataset_id": "135d3846feb2065e2487f8054424bfca798e0aae"}
+Processing record: {'id': 'e319956e-982b-4bba-829a-67bf4ef79d74', 'oracle_id': '04ea7e88-7ea5-4b4c-9a7c-2a6ac0bc0682', 'name': 'Absorb Vis'}
+{"dataset": "scryfall-tap", "dataset_id": "135d3846feb2065e2487f8054424bfca798e0aae"}
+Processing record: {'id': '6d2a66f0-1afe-41e6-a597-ec2e95685191', 'oracle_id': '4954181c-cb46-4cac-adc3-2c8b7693a211', 'name': 'Abyssal Gatekeeper'}
+{"dataset": "scryfall-tap", "dataset_id": "135d3846feb2065e2487f8054424bfca798e0aae"}
+Processing record: {'id': 'a559f77f-1f10-475b-9361-7f297d50f254', 'oracle_id': '465cda20-c8f3-4a7c-a250-875877bce21d', 'name': 'Abyssal Gorestalker'}
+{"dataset": "scryfall-tap", "dataset_id": "135d3846feb2065e2487f8054424bfca798e0aae"}
+Processing record: {'id': 'ccb42943-f599-4068-a364-a023e70c4ed2', 'oracle_id': '6b60422a-765b-4168-a37b-68109103385a', 'name': 'Abyssal Horror'}
+{"dataset": "scryfall-tap", "dataset_id": "135d3846feb2065e2487f8054424bfca798e0aae"}
+Processing record: {'id': '3c3f6ad7-4782-40db-8eb3-e71d71ec3388', 'oracle_id': 'b96ccc2f-88e5-4522-924e-76fc76dc3b39', 'name': 'Abyssal Hunter'}
+{"dataset": "scryfall-tap", "dataset_id": "135d3846feb2065e2487f8054424bfca798e0aae"}
+Processing record: {'id': '0b688039-7441-490b-ad06-8a72086c4023', 'oracle_id': '10733767-1c97-4e2e-b02b-54bf346f6583', 'name': 'Abyssal Nightstalker'}
+{"dataset": "scryfall-tap", "dataset_id": "135d3846feb2065e2487f8054424bfca798e0aae"}
+Processing record: {'id': 'fe094903-45a6-4b11-b80e-aabe915c4b7c', 'oracle_id': 'b79c4066-66a9-4a53-8716-23f7a340a85f', 'name': 'Abyssal Nocturnus'}
+{"dataset": "scryfall-tap", "dataset_id": "135d3846feb2065e2487f8054424bfca798e0aae"}
+Processing record: {'id': '9f2b9f27-459c-4585-9051-b83ffe053a74', 'oracle_id': '7282f643-191b-41be-9f6f-82360c915d6d', 'name': 'Abyssal Persecutor'}
+{"dataset": "scryfall-tap", "dataset_id": "135d3846feb2065e2487f8054424bfca798e0aae"}
+Processing record: {'id': '69a41bec-7fb0-4060-918a-38cbbb329543', 'oracle_id': '51833cff-6519-4806-8d91-0040e9a02189', 'name': 'Abyssal Specter'}
+{"dataset": "scryfall-tap", "dataset_id": "135d3846feb2065e2487f8054424bfca798e0aae"}
+Processing record: {'id': '80b722d9-be9d-463c-929e-78f7156af9c6', 'oracle_id': '3b7d4206-0d88-407b-ace5-d5d28881bf95', 'name': 'Abzan Ascendancy'}
+{"dataset": "scryfall-tap", "dataset_id": "135d3846feb2065e2487f8054424bfca798e0aae"}
+Processing record: {'id': 'bd5b386e-e71e-492d-8456-6cd178ef5b3d', 'oracle_id': '4137a22c-f793-4e27-a9b2-72740a6e2121', 'name': 'Abzan Charm'}
+{"dataset": "scryfall-tap", "dataset_id": "135d3846feb2065e2487f8054424bfca798e0aae"}
+Processing record: {'id': '1b7f7158-4a31-4a1c-bf3b-574c0b09276a', 'oracle_id': '85b2fb89-5ebe-4c13-bc12-38d1417e5880', 'name': 'Abzan Guide'}
+{"dataset": "scryfall-tap", "dataset_id": "135d3846feb2065e2487f8054424bfca798e0aae"}
+Processing record: {'id': 'c55cdc15-e289-49a0-94d9-d0a118ad0a2a', 'oracle_id': '6a94fb8a-c0bf-40d9-ad78-de9695797888', 'name': 'A-Cauldron Familiar'}
+{"dataset": "scryfall-tap", "dataset_id": "135d3846feb2065e2487f8054424bfca798e0aae"}
+Processing record: {'id': '894556d8-6d5c-431b-a45d-26cd37c5f456', 'oracle_id': 'b1e6921e-e460-4e58-82b0-d98ee31c279d', 'name': 'Accursed Centaur'}
+{"dataset": "scryfall-tap", "dataset_id": "135d3846feb2065e2487f8054424bfca798e0aae"}
+Processing record: {'id': '709bcbca-7238-4c31-8d9e-ec0d54d0b298', 'oracle_id': '8f3cba20-e7a4-47f4-8bce-90168ce9cc5c', 'name': 'Accursed Horde'}
+{"dataset": "scryfall-tap", "dataset_id": "135d3846feb2065e2487f8054424bfca798e0aae"}
+Processing record: {'id': '5da14d86-0780-4821-a799-96f64b377df4', 'oracle_id': 'd8ad23a1-0b43-48ea-9fbe-d89b29194509', 'name': 'Accursed Marauder'}
+{"dataset": "scryfall-tap", "dataset_id": "135d3846feb2065e2487f8054424bfca798e0aae"}
+Processing record: {'id': '2513fe72-4e20-49e6-9970-839f1c635792', 'oracle_id': '0e20afd2-507b-4878-a78c-f23b51ec071f', 'name': 'Accursed Spirit'}
+{"dataset": "scryfall-tap", "dataset_id": "135d3846feb2065e2487f8054424bfca798e0aae"}
+Processing record: {'id': '8093f8b0-5d50-48ca-b616-e92535a47138', 'oracle_id': '80b07882-e144-4815-8b6f-04b3ab343d97', 'name': 'Accursed Witch // Infectious Curse'}
+{"dataset": "scryfall-tap", "dataset_id": "135d3846feb2065e2487f8054424bfca798e0aae"}
+Processing record: {'id': 'dd52d0bd-3abd-401c-9f56-ee911613da3b', 'oracle_id': '31b4e85d-89fc-4712-8f05-7ec097b1d3b6', 'name': 'Acererak the Archlich'}
+{"dataset": "scryfall-tap", "dataset_id": "135d3846feb2065e2487f8054424bfca798e0aae"}
+Processing record: {'id': 'f8ead24c-dd4a-40cd-839e-de08017a7c29', 'oracle_id': 'b921a672-721e-4bd8-a10b-a6de8c13c7d8', 'name': 'Achilles Davenport'}
+{"dataset": "scryfall-tap", "dataset_id": "135d3846feb2065e2487f8054424bfca798e0aae"}
+Processing record: {'id': 'd0b3ecf1-5c00-4aa0-92fd-54829495a3cf', 'oracle_id': 'a149eeb1-007c-435d-9d55-34af205090e0', 'name': 'Acidic Sliver'}
+{"dataset": "scryfall-tap", "dataset_id": "135d3846feb2065e2487f8054424bfca798e0aae"}
+Processing record: {'id': 'aa8f58f1-4843-4926-b3c4-98898201c216', 'oracle_id': 'f4378682-359f-48b0-adb7-b996b8d972db', 'name': 'Acid-Spewer Dragon'}
+{"dataset": "scryfall-tap", "dataset_id": "135d3846feb2065e2487f8054424bfca798e0aae"}
+Processing record: {'id': '627c392c-4d18-4eb2-a4e8-c668f61f5487', 'oracle_id': 'fcdfe9d5-2743-4d3e-ab57-bf0f96beaa15', 'name': 'Aclazotz, Deepest Betrayal // Temple of the Dead'}
+{"dataset": "scryfall-tap", "dataset_id": "135d3846feb2065e2487f8054424bfca798e0aae"}
+Processing record: {'id': '99009400-ffa4-40af-8305-78295ae605ac', 'oracle_id': '324d2aa8-6dea-4b0d-898d-1e52ed187565', 'name': 'Acolyte of Aclazotz'}
+{"dataset": "scryfall-tap", "dataset_id": "135d3846feb2065e2487f8054424bfca798e0aae"}
+Processing record: {'id': 'a14afed6-ca42-442d-ba86-621179e6957c', 'oracle_id': 'd57c246f-18e5-4523-898c-1509db738363', 'name': 'Acolyte of Affliction'}
+{"dataset": "scryfall-tap", "dataset_id": "135d3846feb2065e2487f8054424bfca798e0aae"}
+Processing record: {'id': '4b0b14d4-41de-42ac-9894-77bbcebaabfc', 'oracle_id': '62dca41b-58b0-45eb-ada7-568e80a2abec', 'name': 'Acolyte of Xathrid'}
+{"dataset": "scryfall-tap", "dataset_id": "135d3846feb2065e2487f8054424bfca798e0aae"}
+Processing record: {'id': 'e9c37a83-3d5e-4019-b180-88e2bc106dd0', 'oracle_id': 'c4edcdc0-91de-410c-95dd-219efcef692a', 'name': 'Acornelia, Fashionable Filcher'}
+{"dataset": "scryfall-tap", "dataset_id": "135d3846feb2065e2487f8054424bfca798e0aae"}
+Processing record: {'id': '281336c7-ca7c-4c91-bdfb-d253a965cb7c', 'oracle_id': '07e5f59e-3a98-4e01-a368-0be60e0463ba', 'name': 'Acquisitions Expert'}
+{"dataset": "scryfall-tap", "dataset_id": "135d3846feb2065e2487f8054424bfca798e0aae"}
+Processing record: {'id': '343d01cf-9806-4c2d-a993-ddc9ed248d7f', 'oracle_id': 'e12da2a1-e390-4487-b154-69e439cb7b05', 'name': 'Activated Sleeper'}
+{"dataset": "scryfall-tap", "dataset_id": "135d3846feb2065e2487f8054424bfca798e0aae"}
+Processing record: {'id': 'f7fcce83-4378-405f-8007-dd0ed002be6b', 'oracle_id': '3745aea4-4455-4859-9772-bcfd14e4067b', 'name': 'Addle'}
+{"dataset": "scryfall-tap", "dataset_id": "135d3846feb2065e2487f8054424bfca798e0aae"}
+Processing record: {'id': 'b2d88ac4-cde5-4878-934e-cd670a7c9b9e', 'oracle_id': '36b54d9c-5a63-484a-bf17-5e0be5fccbc8', 'name': 'A-Deal Gone Bad'}
+{"dataset": "scryfall-tap", "dataset_id": "135d3846feb2065e2487f8054424bfca798e0aae"}
+Processing record: {'id': 'f756f0c8-bab6-45cf-a433-409b3c999263', 'oracle_id': 'de8013a8-ecba-4f4b-8232-394abceeef22', 'name': 'A-Death-Priest of Myrkul'}
+{"dataset": "scryfall-tap", "dataset_id": "135d3846feb2065e2487f8054424bfca798e0aae"}
+Processing record: {'id': 'fb9f5336-130a-41aa-9df0-9bbb5dd747d9', 'oracle_id': 'd97ca31f-b5f5-4130-89e0-55cc8a8c4986', 'name': "A-Demon's Due"}
+{"dataset": "scryfall-tap", "dataset_id": "135d3846feb2065e2487f8054424bfca798e0aae"}
+Processing record: {'id': '914efc24-5c3a-4d22-9d77-fce337a08d4d', 'oracle_id': 'e30d9e08-cf88-4e2d-95e1-7144d8fea5c7', 'name': 'Adéwalé, Breaker of Chains'}
+{"dataset": "scryfall-tap", "dataset_id": "135d3846feb2065e2487f8054424bfca798e0aae"}
+Processing record: {'id': '02cbd397-3ef3-465f-84fe-765dd1444af8', 'oracle_id': '43b5e462-d860-473d-828f-6c513fc7768a', 'name': 'Admiral Beckett Brass'}
+{"dataset": "scryfall-tap", "dataset_id": "135d3846feb2065e2487f8054424bfca798e0aae"}
+Processing record: {'id': 'bdc2d492-9d1e-4543-8b9c-c66ee67992ce', 'oracle_id': '4df179b4-7c6b-4e63-9d7d-62f4df377989', 'name': 'Admiral Brass, Unsinkable'}
+{"dataset": "scryfall-tap", "dataset_id": "135d3846feb2065e2487f8054424bfca798e0aae"}
+Processing record: {'id': 'a9f2c53e-ff58-4aa8-89a6-4f45628cc571', 'oracle_id': '981b0e21-e5e6-4a1e-bfde-679d56623f7f', 'name': 'Ad Nauseam'}
+{"dataset": "scryfall-tap", "dataset_id": "135d3846feb2065e2487f8054424bfca798e0aae"}
+Processing record: {'id': '73447b86-d5a4-4b62-9a21-84d284c9ae3c', 'oracle_id': 'b7d6af23-dcb7-45fa-985b-23e704cf93a3', 'name': 'A-Dokuchi Silencer'}
+{"dataset": "scryfall-tap", "dataset_id": "135d3846feb2065e2487f8054424bfca798e0aae"}
+Processing record: {'id': '184da30e-0db4-450c-8856-5c23088c35be', 'oracle_id': 'aefd49a4-ecec-42cb-b882-e5db7f81eff8', 'name': 'Adun Oakenshield'}
+{"dataset": "scryfall-tap", "dataset_id": "135d3846feb2065e2487f8054424bfca798e0aae"}
+Processing record: {'id': '62872f7d-26ab-40b7-96db-955e576ec110', 'oracle_id': '2600e00e-3a84-46c2-9718-f4cf4a2675f3', 'name': 'A-Elderfang Ritualist'}
+{"dataset": "scryfall-tap", "dataset_id": "135d3846feb2065e2487f8054424bfca798e0aae"}
+Processing record: {'id': '0464a507-20e5-42d5-8aca-12504a869f21', 'oracle_id': '8789d5fa-101c-457a-90ec-5cf067f5289b', 'name': 'Aesthetic Consultation'}
+{"dataset": "scryfall-tap", "dataset_id": "135d3846feb2065e2487f8054424bfca798e0aae"}
+Processing record: {'id': 'dad34ae5-56b4-4394-be02-e043dc1cc23d', 'oracle_id': '80ecb069-36e2-490d-9f6c-ef553c00e997', 'name': 'Aetherblade Agent // Gitaxian Mindstinger'}
+{"dataset": "scryfall-tap", "dataset_id": "135d3846feb2065e2487f8054424bfca798e0aae"}
+Processing record: {'id': '4c861a13-4e02-41fb-a2c0-29d3a7ae3922', 'oracle_id': 'ff6427f6-d2b1-4e33-984d-c06bd15d7c2c', 'name': 'Aetherborn Marauder'}
+{"dataset": "scryfall-tap", "dataset_id": "135d3846feb2065e2487f8054424bfca798e0aae"}
+Processing record: {'id': 'c9b217f1-1621-40d1-8a98-24c1f7cba800', 'oracle_id': '73757d44-7889-416b-94d2-e730e601ace3', 'name': 'Aether Poisoner'}
+{"dataset": "scryfall-tap", "dataset_id": "135d3846feb2065e2487f8054424bfca798e0aae"}
+Processing record: {'id': 'dd9cade1-b077-4fb0-b55a-01b9916647e7', 'oracle_id': '1a1a16e5-ce4f-42b8-a1c6-05dd635d83cc', 'name': 'Aether Snap'}
+{"dataset": "scryfall-tap", "dataset_id": "135d3846feb2065e2487f8054424bfca798e0aae"}
+Processing record: {'id': '2a361530-24eb-43df-b731-106788504973', 'oracle_id': 'b2747a8c-13eb-48fc-8a1a-ba74ecbaa122', 'name': 'A-Eyes of the Beholder'}
+{"dataset": "scryfall-tap", "dataset_id": "135d3846feb2065e2487f8054424bfca798e0aae"}
+Processing record: {'id': 'ca09f699-c3e9-436e-b1b3-0fcd1ef3273f', 'oracle_id': '2b446780-d865-4e9a-927d-d89ed6518104', 'name': "A-Fates' Reversal"}
+{"dataset": "scryfall-tap", "dataset_id": "135d3846feb2065e2487f8054424bfca798e0aae"}
+Processing record: {'id': '20f18447-2853-469b-b3b3-20d6bcafa6e7', 'oracle_id': '471f6ad3-cf01-42dd-a519-ea8e13039fea', 'name': 'Afflict'}
+{"dataset": "scryfall-tap", "dataset_id": "135d3846feb2065e2487f8054424bfca798e0aae"}
+Processing record: {'id': 'b9e6942a-f6fd-455f-be4a-0cdd16d67e13', 'oracle_id': 'd069b9f9-78b2-4ffb-82da-ccd4d70b85e8', 'name': 'A-Forge Boss'}
+{"dataset": "scryfall-tap", "dataset_id": "135d3846feb2065e2487f8054424bfca798e0aae"}
+Processing record: {'id': '2fa47810-ba83-4a6e-9940-7315ee7e44a5', 'oracle_id': '05501e88-d4c3-4474-92a9-c02ab15b107b', 'name': 'Afterlife Insurance'}
+{"dataset": "scryfall-tap", "dataset_id": "135d3846feb2065e2487f8054424bfca798e0aae"}
+Processing record: {'id': 'c592ef76-d612-4cfe-b906-0e63c44d36f8', 'oracle_id': '9c462cd8-36f9-4e39-adf3-310ad4d76051', 'name': 'Agadeem Occultist'}
+{"dataset": "scryfall-tap", "dataset_id": "135d3846feb2065e2487f8054424bfca798e0aae"}
+Processing record: {'id': '67f4c93b-080c-4196-b095-6a120a221988', 'oracle_id': '562d71b9-1646-474e-9293-55da6947a758', 'name': "Agadeem's Awakening // Agadeem, the Undercrypt"}
+{"dataset": "scryfall-tap", "dataset_id": "135d3846feb2065e2487f8054424bfca798e0aae"}
+Processing record: {'id': '39ebb84a-1c52-4b07-9bd0-b360523b3a5b', 'oracle_id': '381a3e8e-71dd-48e4-ab62-53478bde4a14', 'name': 'Agate-Blade Assassin'}
+{"dataset": "scryfall-tap", "dataset_id": "135d3846feb2065e2487f8054424bfca798e0aae"}
+Processing record: {'id': 'd63f2c23-e877-42e3-9362-5d003a173c6d', 'oracle_id': '3686fd97-49ff-4a92-9cb2-7d8e9438d945', 'name': 'Agency Coroner'}
+{"dataset": "scryfall-tap", "dataset_id": "135d3846feb2065e2487f8054424bfca798e0aae"}
+Processing record: {'id': '91193a0b-9087-404f-b397-815e29d0fe12', 'oracle_id': 'aedcde3b-3ed5-443c-a81c-03d785153e55', 'name': 'Agent Frank Horrigan'}
+{"dataset": "scryfall-tap", "dataset_id": "135d3846feb2065e2487f8054424bfca798e0aae"}
+Processing record: {'id': '1e07a595-5579-4d5a-b07c-84239d690459', 'oracle_id': '3fa5e109-4a67-4523-8183-90e48a906400', 'name': 'Agent of Erebos'}
+{"dataset": "scryfall-tap", "dataset_id": "135d3846feb2065e2487f8054424bfca798e0aae"}
+Processing record: {'id': '7d6ace1f-c056-494d-a41f-75efa54312a5', 'oracle_id': '632ccf7e-eaf4-42a6-9069-6ad915d03a5b', 'name': 'Agent of Masks'}
+{"dataset": "scryfall-tap", "dataset_id": "135d3846feb2065e2487f8054424bfca798e0aae"}
+Processing record: {'id': 'd8316804-6f8b-423e-a2c3-fa476c095544', 'oracle_id': 'd2e0d739-b441-4173-a8f1-b831a19ea98e', 'name': 'Agent of Shauku'}
+{"dataset": "scryfall-tap", "dataset_id": "135d3846feb2065e2487f8054424bfca798e0aae"}
+Processing record: {'id': 'ecd59977-8788-417d-ba50-e21b8a636bd3', 'oracle_id': '45f88a6a-ac8a-4a53-a96b-f09ca33c79ba', 'name': 'Agent of the Fates'}
+{"dataset": "scryfall-tap", "dataset_id": "135d3846feb2065e2487f8054424bfca798e0aae"}
+Processing record: {'id': '5a5984d3-1e76-4d97-9373-b59cfa9c38ae', 'oracle_id': '325032d5-c452-4454-8976-82f86fee5ab8', 'name': 'Agent of the Iron Throne'}
+{"dataset": "scryfall-tap", "dataset_id": "135d3846feb2065e2487f8054424bfca798e0aae"}
+Processing record: {'id': 'f50448e9-afe4-4d4e-b027-bbb855f17aeb', 'oracle_id': 'b2142d8b-ea53-443e-bd60-9e70d9da9bd7', 'name': 'Agent of the Shadow Thieves'}
+{"dataset": "scryfall-tap", "dataset_id": "135d3846feb2065e2487f8054424bfca798e0aae"}
+Processing record: {'id': 'ac809fca-664a-4e7d-a39f-2bc1dea0fbd8', 'oracle_id': 'a47ff11e-dbcf-45b1-a13d-fff677ea42c9', 'name': 'Aggressive Sabotage'}
+{"dataset": "scryfall-tap", "dataset_id": "135d3846feb2065e2487f8054424bfca798e0aae"}
+Processing record: {'id': 'ab334c44-0cdb-4521-bb7d-162131155796', 'oracle_id': 'e1c00c2b-146d-4923-aa1e-5cb3fcb0e99b', 'name': 'A-Glamorous Outlaw'}
+{"dataset": "scryfall-tap", "dataset_id": "135d3846feb2065e2487f8054424bfca798e0aae"}
+Processing record: {'id': 'b7621aab-4839-45ef-bfa2-9aa2417bbec0', 'oracle_id': '41681a1f-0777-4b96-8c7e-d6a5d1b1c8fc', 'name': 'Agonizing Demise'}
+{"dataset": "scryfall-tap", "dataset_id": "135d3846feb2065e2487f8054424bfca798e0aae"}
+Processing record: {'id': '28bac7a8-d3bb-4032-b30b-db7328e4d2fc', 'oracle_id': '2ac9d397-10ca-43ce-bff9-45d631553486', 'name': 'Agonizing Memories'}
+{"dataset": "scryfall-tap", "dataset_id": "135d3846feb2065e2487f8054424bfca798e0aae"}
+Processing record: {'id': '09270c65-546e-4737-a6b7-402cbb87917a', 'oracle_id': '1267dfda-eb1a-4963-9fe3-fa619d924d7a', 'name': 'Agonizing Remorse'}
+{"dataset": "scryfall-tap", "dataset_id": "135d3846feb2065e2487f8054424bfca798e0aae"}
+Processing record: {'id': '3532a279-b8e1-4124-bcd7-d7f4c71673eb', 'oracle_id': '11669fe5-9298-4e1a-a4f7-6a4598dbc8dd', 'name': 'Agonizing Syphon'}
+{"dataset": "scryfall-tap", "dataset_id": "135d3846feb2065e2487f8054424bfca798e0aae"}
+Processing record: {'id': '5890a23e-1da0-432b-8dc8-85b92dee9ba1', 'oracle_id': '377c217b-ddad-4e1a-9122-f347113d3dfa', 'name': 'Agony Warp'}
+{"dataset": "scryfall-tap", "dataset_id": "135d3846feb2065e2487f8054424bfca798e0aae"}
+Processing record: {'id': 'fca8a87a-ecb2-4f1c-93ad-17091af3da15', 'oracle_id': '0d0698f5-569c-4933-8758-670a28bbce08', 'name': 'A-Graveyard Shift'}
+{"dataset": "scryfall-tap", "dataset_id": "135d3846feb2065e2487f8054424bfca798e0aae"}
+Processing record: {'id': 'e3137e38-e509-4d3f-9e20-44271a7fdf47', 'oracle_id': 'cb0f054b-9b0a-4486-a4a1-fb0833406914', 'name': 'A-Guildsworn Prowler'}
+{"dataset": "scryfall-tap", "dataset_id": "135d3846feb2065e2487f8054424bfca798e0aae"}
+Processing record: {'id': 'f7bdcad1-00d2-4e26-8230-82f0768bdd67', 'oracle_id': '21a32886-2709-45e0-aeba-a5136dee80ec', 'name': 'A-Hagra Constrictor'}
+{"dataset": "scryfall-tap", "dataset_id": "135d3846feb2065e2487f8054424bfca798e0aae"}
+Processing record: {'id': 'cc3987c7-4114-44ea-bd40-1a6054e06f09', 'oracle_id': '8f7b6421-e399-425c-b403-90d7c28a59db', 'name': 'A-Harald, King of Skemfar'}
+{"dataset": "scryfall-tap", "dataset_id": "135d3846feb2065e2487f8054424bfca798e0aae"}
+Processing record: {'id': 'db8705b7-e851-483e-a2af-bd309e62f079', 'oracle_id': 'ace367ed-0684-4f41-bfbb-147cff168362', 'name': 'A-Harald Unites the Elves'}
+{"dataset": "scryfall-tap", "dataset_id": "135d3846feb2065e2487f8054424bfca798e0aae"}
+Processing record: {'id': '2fae7302-0439-4b96-88c8-4ecfae322e7b', 'oracle_id': '87450f2e-6aed-435d-a08e-8c5bbe943480', 'name': 'A-Hobbling Zombie'}
+{"dataset": "scryfall-tap", "dataset_id": "135d3846feb2065e2487f8054424bfca798e0aae"}
+Processing record: {'id': '5f8bc010-f1af-42a2-9009-2039cf3d8f0a', 'oracle_id': 'acb0084d-3b09-4d2a-a4c1-848c92588845', 'name': 'Aid the Fallen'}
+{"dataset": "scryfall-tap", "dataset_id": "135d3846feb2065e2487f8054424bfca798e0aae"}
+Processing record: {'id': '1174e8e1-2e8e-4070-9871-7d5d93e0dd56', 'oracle_id': 'b191ae0c-7d54-459f-abe3-aab5d792e514', 'name': 'Aim for the Head'}
+{"dataset": "scryfall-tap", "dataset_id": "135d3846feb2065e2487f8054424bfca798e0aae"}
+Processing record: {'id': 'cf60fdcf-f07a-4daa-b670-f6c2793e72eb', 'oracle_id': 'f207c21f-7ace-4857-8678-1b4f5e72350a', 'name': 'A-Incriminate'}
+{"dataset": "scryfall-tap", "dataset_id": "135d3846feb2065e2487f8054424bfca798e0aae"}
+Processing record: {'id': '3ee62dd1-97d0-4e5d-8937-26c9e51e9414', 'oracle_id': '0679dcef-e1c3-4739-a769-18a4ffdcfde7', 'name': 'Akawalli, the Seething Tower'}
+{"dataset": "scryfall-tap", "dataset_id": "135d3846feb2065e2487f8054424bfca798e0aae"}
+Processing record: {'id': '8375b7a3-40f2-4b1c-a8cb-ce19e34e4471', 'oracle_id': '23e68343-f5fa-4dab-95ba-edd701ee4ecd', 'name': "A-Krydle of Baldur's Gate"}
+{"dataset": "scryfall-tap", "dataset_id": "135d3846feb2065e2487f8054424bfca798e0aae"}
+Processing record: {'id': '369a5df5-fc36-476c-84f4-ec4bdeb4f9d2', 'oracle_id': '233c6686-ead8-4569-941d-3bfa768ff270', 'name': 'Aku Djinn'}
+{"dataset": "scryfall-tap", "dataset_id": "135d3846feb2065e2487f8054424bfca798e0aae"}
+Processing record: {'id': '68fd8548-50db-4243-9154-377f32408d58', 'oracle_id': 'd6b56d6d-e2f6-47f5-a9d1-cd0e17f94a0d', 'name': 'Akul the Unrepentant'}
+{"dataset": "scryfall-tap", "dataset_id": "135d3846feb2065e2487f8054424bfca798e0aae"}
+Processing record: {'id': '08730b49-e51e-4868-9cc8-4ddc4a1dce4c', 'oracle_id': '29169659-309f-4e1c-86ba-1d36420ed41e', 'name': 'Akuta, Born of Ash'}
+{"dataset": "scryfall-tap", "dataset_id": "135d3846feb2065e2487f8054424bfca798e0aae"}
+Processing record: {'id': '6e4c9574-1ee3-461e-848f-8f02c6a8b7ee', 'oracle_id': '4e698713-6203-44f2-b438-1b26b951536d', 'name': "Alchemist's Gift"}
+{"dataset": "scryfall-tap", "dataset_id": "135d3846feb2065e2487f8054424bfca798e0aae"}
+Processing record: {'id': 'abc9e41e-fd03-4b6f-8f44-17ba94fa44f5', 'oracle_id': '936ae5dc-9838-47f3-ba1f-66523a7f5b76', 'name': 'Alela, Artful Provocateur'}
+{"dataset": "scryfall-tap", "dataset_id": "135d3846feb2065e2487f8054424bfca798e0aae"}
+Processing record: {'id': '79ba5c35-6e5c-406a-b95f-844d5ec296ab', 'oracle_id': '1cae5752-b4af-4a8f-8c8c-2493e163083b', 'name': 'Alela, Cunning Conqueror'}
+{"dataset": "scryfall-tap", "dataset_id": "135d3846feb2065e2487f8054424bfca798e0aae"}
+Processing record: {'id': '69bb135f-1c58-42ed-bbf2-4a2e842f99d7', 'oracle_id': 'be662217-41c2-4caa-89da-ae7f6f817c34', 'name': "Alesha's Vanguard"}
+{"dataset": "scryfall-tap", "dataset_id": "135d3846feb2065e2487f8054424bfca798e0aae"}
+Processing record: {'id': 'edf238c9-61de-4f3a-b82f-05af46e5e81b', 'oracle_id': '57eba48e-87bd-4b54-8635-7348020f2ba4', 'name': 'Alley Assailant'}
+{"dataset": "scryfall-tap", "dataset_id": "135d3846feb2065e2487f8054424bfca798e0aae"}
+Processing record: {'id': 'cfb648e3-f5ad-4b33-afa3-d4cda0d369a1', 'oracle_id': '399af8ea-7a6f-4f43-bd39-dc29a6e75e06', 'name': 'Alley Grifters'}
+{"dataset": "scryfall-tap", "dataset_id": "135d3846feb2065e2487f8054424bfca798e0aae"}
+Processing record: {'id': 'a131d558-5f6b-448b-a378-1882e2d02bd2', 'oracle_id': 'fb9af562-7384-4575-93bb-34f1ada23735', 'name': 'Alley Strangler'}
+{"dataset": "scryfall-tap", "dataset_id": "135d3846feb2065e2487f8054424bfca798e0aae"}
+Processing record: {'id': 'af266eec-e61b-4bda-be7f-3a5a59eee864', 'oracle_id': 'ebed900f-6de3-4ae7-9795-fae34882298d', 'name': "All Hallow's Eve"}
+{"dataset": "scryfall-tap", "dataset_id": "135d3846feb2065e2487f8054424bfca798e0aae"}
+Processing record: {'id': 'f77e09c3-917c-4bbb-bb94-60f4e9417832', 'oracle_id': '252d9b25-45a1-40ca-b563-4cdefc791a44', 'name': 'Allure of the Unknown'}
+{"dataset": "scryfall-tap", "dataset_id": "135d3846feb2065e2487f8054424bfca798e0aae"}
+Processing record: {'id': 'ce441759-cd4c-4bcc-925e-08e8b60853c0', 'oracle_id': 'b221939c-93e7-4ffc-b995-5b67e173ee15', 'name': 'Alms Beast'}
+{"dataset": "scryfall-tap", "dataset_id": "135d3846feb2065e2487f8054424bfca798e0aae"}
+Processing record: {'id': '79b80948-a3cd-4962-8fce-d58f2db7e68e', 'oracle_id': '2013a774-e6ab-4f2d-a84f-fd277a637d7e', 'name': 'Alms of the Vein'}
+{"dataset": "scryfall-tap", "dataset_id": "135d3846feb2065e2487f8054424bfca798e0aae"}
+Processing record: {'id': 'ca4c8b04-66af-4cb3-8003-9088d8344b20', 'oracle_id': '0a7d0d1f-a5ac-4db9-860c-9fcbe3fd9e71', 'name': 'Alpha Deathclaw'}
+{"dataset": "scryfall-tap", "dataset_id": "135d3846feb2065e2487f8054424bfca798e0aae"}
+Processing record: {'id': '358026de-ab7c-4a17-8cac-cfbee391b127', 'oracle_id': '43dc4b0c-e437-4abc-a3fb-48bd3098de88', 'name': "Altaïr Ibn-La'Ahad"}
+{"dataset": "scryfall-tap", "dataset_id": "135d3846feb2065e2487f8054424bfca798e0aae"}
+Processing record: {'id': '37bd2e21-b292-4c86-bd01-010d4a1af7b2', 'oracle_id': '0a364b66-95df-480b-a733-e90f6d5c4d2b', 'name': 'Altar of Bhaal // Bone Offering'}
+{"dataset": "scryfall-tap", "dataset_id": "135d3846feb2065e2487f8054424bfca798e0aae"}
+Processing record: {'id': 'e2c812bb-19f8-4a22-bda9-f2a6233cf700', 'oracle_id': 'c551f007-9740-4a2a-8ef5-7be1a7afe14b', 'name': 'Altar of the Wretched // Wretched Bonemass'}
+{"dataset": "scryfall-tap", "dataset_id": "135d3846feb2065e2487f8054424bfca798e0aae"}
+Processing record: {'id': '1db55625-25a5-46eb-9d9c-9b3ed219359f', 'oracle_id': '6a125750-2b8c-4f9d-8173-ac8d14c91ddb', 'name': "Altar's Reap"}
+{"dataset": "scryfall-tap", "dataset_id": "135d3846feb2065e2487f8054424bfca798e0aae"}
+Processing record: {'id': '9acf80a5-f2ca-45b4-aca8-fbc690e35401', 'oracle_id': '85eefda9-4aab-467d-a08c-be026cb8ff42', 'name': 'Amalia Benavides Aguirre'}
+{"dataset": "scryfall-tap", "dataset_id": "135d3846feb2065e2487f8054424bfca798e0aae"}
+Processing record: {'id': 'a8096dbc-5568-4509-b2c8-93c84411f2dd', 'oracle_id': '88bff8fa-cf39-48dd-a58a-8d51daff6082', 'name': 'A-Manticore'}
+{"dataset": "scryfall-tap", "dataset_id": "135d3846feb2065e2487f8054424bfca798e0aae"}
+Processing record: {'id': '0c2073bd-be49-4d3a-9aca-b8ea6b747503', 'oracle_id': '71608acf-bb4d-437d-8c36-26db40bf4a01', 'name': 'A-Masked Bandits'}
+{"dataset": "scryfall-tap", "dataset_id": "135d3846feb2065e2487f8054424bfca798e0aae"}
+Processing record: {'id': 'd560c996-ef80-4117-8642-a632ae51c07d', 'oracle_id': '84de4fec-2f38-4293-93d3-b3882c5aac14', 'name': "Ambition's Cost"}
+{"dataset": "scryfall-tap", "dataset_id": "135d3846feb2065e2487f8054424bfca798e0aae"}
+Processing record: {'id': '80cb628e-fa83-4d7e-92cb-8779ea02193f', 'oracle_id': '31f54f88-85a6-43f4-a6de-fb6ef5f0c38d', 'name': 'Ambitious Aetherborn'}
+{"dataset": "scryfall-tap", "dataset_id": "135d3846feb2065e2487f8054424bfca798e0aae"}
+Processing record: {'id': '43c9005c-0574-4b75-8dbf-0a6641c3ae33', 'oracle_id': 'b46351cf-73c7-493c-b8a7-5d7bedc8b205', 'name': 'Ambulatory Edifice'}
+{"dataset": "scryfall-tap", "dataset_id": "135d3846feb2065e2487f8054424bfca798e0aae"}
+Processing record: {'id': '5b9a91f8-5f9f-46a2-bd80-1ca014591de9', 'oracle_id': '96e1d890-4ebb-4c79-8df9-24e3adaf4d9b', 'name': 'Ambuscade Shaman'}
+{"dataset": "scryfall-tap", "dataset_id": "135d3846feb2065e2487f8054424bfca798e0aae"}
+Processing record: {'id': '93b17d09-974a-4e33-b14d-5fe4230ab241', 'oracle_id': '4faf62c3-3ba7-4540-be26-777305ef184e', 'name': 'Ambush Gigapede'}
+{"dataset": "scryfall-tap", "dataset_id": "135d3846feb2065e2487f8054424bfca798e0aae"}
+Processing record: {'id': '37409205-a750-475a-9755-5ad21792acd7', 'oracle_id': '4b0b97a2-95ef-496e-ac88-48f97c70f34b', 'name': 'A-Midnight Assassin'}
+{"dataset": "scryfall-tap", "dataset_id": "135d3846feb2065e2487f8054424bfca798e0aae"}
+Processing record: {'id': 'bc010302-e715-4946-89eb-a214e0b836ba', 'oracle_id': '3a30089d-cd2d-49be-9b06-7a2454117692', 'name': 'Aminatou, the Fateshifter'}
+{"dataset": "scryfall-tap", "dataset_id": "135d3846feb2065e2487f8054424bfca798e0aae"}
+Processing record: {'id': '1b04934f-87d1-4768-b7b5-5f7249a09771', 'oracle_id': 'c2f6ddc2-86bc-43da-9bdd-0c2af79c62fd', 'name': 'Ammit Eternal'}
+{"dataset": "scryfall-tap", "dataset_id": "135d3846feb2065e2487f8054424bfca798e0aae"}
+Processing record: {'id': 'dd748df0-b7af-4438-b567-5fabe0731438', 'oracle_id': '20270bed-3ad0-4d63-a65b-42d5f6f22fa1', 'name': 'A-Moss-Pit Skeleton'}
+{"dataset": "scryfall-tap", "dataset_id": "135d3846feb2065e2487f8054424bfca798e0aae"}
+Processing record: {'id': 'db1b8196-ec05-4732-aec2-50629cf4ebb4', 'oracle_id': '4c595ea4-8305-4904-9c8a-226bd1a6568b', 'name': 'A-Mr. Orfeo, the Boulder'}
+{"dataset": "scryfall-tap", "dataset_id": "135d3846feb2065e2487f8054424bfca798e0aae"}
+Processing record: {'id': '634f6f70-347e-436f-abf9-4a573472e2c8', 'oracle_id': '6777863c-e52c-4a7c-b8d2-a16b1438b3d2', 'name': "Amzu, Swarm's Hunger"}
+{"dataset": "scryfall-tap", "dataset_id": "135d3846feb2065e2487f8054424bfca798e0aae"}
+Processing record: {'id': 'c8b432a7-53da-4480-b571-e6feb1364a3a', 'oracle_id': 'ebfafabc-5255-4024-be59-7403bdb16ee4', 'name': 'Anafenza, the Foremost'}
+{"dataset": "scryfall-tap", "dataset_id": "135d3846feb2065e2487f8054424bfca798e0aae"}
+Processing record: {'id': '2d689fc6-c7b5-46f8-9ec2-2bc4b4af87c0', 'oracle_id': '6362224e-c9e7-4f90-9275-ce4ddab5a0fa', 'name': 'A-Narfi, Betrayer King'}
+{"dataset": "scryfall-tap", "dataset_id": "135d3846feb2065e2487f8054424bfca798e0aae"}
+Processing record: {'id': 'a47b49c4-6adb-445b-b0f1-e0391c2f08cf', 'oracle_id': 'd6112a8a-e0b8-422e-9904-ca1d87bf7322', 'name': "A-Nashi, Moon Sage's Scion"}
+{"dataset": "scryfall-tap", "dataset_id": "135d3846feb2065e2487f8054424bfca798e0aae"}
+Processing record: {'id': 'ab106855-bd85-4c00-b596-c46d34f8cdd0', 'oracle_id': '137b5708-50a9-4f4c-84e6-9043be9f1989', 'name': 'Anathemancer'}
+{"dataset": "scryfall-tap", "dataset_id": "135d3846feb2065e2487f8054424bfca798e0aae"}
+Processing record: {'id': 'e0d0094e-07ff-4b47-8c6e-500adabf12e4', 'oracle_id': '321c4586-d27e-45ae-ba1f-3efea334a697', 'name': 'Ancestral Vengeance'}
+{"dataset": "scryfall-tap", "dataset_id": "135d3846feb2065e2487f8054424bfca798e0aae"}
+Processing record: {'id': '6430c61b-407d-471d-9012-07f1ddef28aa', 'oracle_id': '7d79fb4e-2ca0-404a-9663-1f5abce6e733', 'name': 'Ancient Brass Dragon'}
+{"dataset": "scryfall-tap", "dataset_id": "135d3846feb2065e2487f8054424bfca798e0aae"}
+Processing record: {'id': 'f9b3ad9c-ef51-4ba6-a126-ec25d8f25b78', 'oracle_id': '78725353-9274-420a-b722-add0f43c444e', 'name': 'Ancient Craving'}
+{"dataset": "scryfall-tap", "dataset_id": "135d3846feb2065e2487f8054424bfca798e0aae"}
+Processing record: {'id': '442f0af0-b745-49f2-9e95-2688403fc995', 'oracle_id': '46db3dc2-9eb1-4be3-96f9-0013119fcd97', 'name': 'Ancient Excavation'}
+{"dataset": "scryfall-tap", "dataset_id": "135d3846feb2065e2487f8054424bfca798e0aae"}
+Processing record: {'id': '22264087-bac4-4746-b6ce-0d44cce163e6', 'oracle_id': 'd714f1f6-539e-4a2a-b738-226854d7ff09', 'name': 'Ancient Lumberknot'}
+{"dataset": "scryfall-tap", "dataset_id": "135d3846feb2065e2487f8054424bfca798e0aae"}
+Processing record: {'id': '6da0d4f3-9216-406c-8f3e-b9bb0a11dc75', 'oracle_id': '09bfc3b1-cc40-4cb9-87e4-86b0018caa75', 'name': 'Andradite Leech'}
+{"dataset": "scryfall-tap", "dataset_id": "135d3846feb2065e2487f8054424bfca798e0aae"}
+Processing record: {'id': '8b7d51c6-a9c8-47b8-b120-d72a1f2aa439', 'oracle_id': 'af039289-69bc-42a6-b774-1b7497700526', 'name': 'A-Nezumi Prowler'}
+{"dataset": "scryfall-tap", "dataset_id": "135d3846feb2065e2487f8054424bfca798e0aae"}
+Processing record: {'id': 'a07809b2-dabe-4242-84c3-fd640d7d5998', 'oracle_id': '02520741-d7f0-46e6-acbe-010b65fc24c0', 'name': 'Angel of Despair'}
+{"dataset": "scryfall-tap", "dataset_id": "135d3846feb2065e2487f8054424bfca798e0aae"}
+Processing record: {'id': 'cd4aee25-496d-453e-95b7-d773fe21cacc', 'oracle_id': '92380c57-0a92-48eb-b562-2be149b5792a', 'name': 'Angel of Suffering'}
+{"dataset": "scryfall-tap", "dataset_id": "135d3846feb2065e2487f8054424bfca798e0aae"}
+Processing record: {'id': 'aa3a4cb5-945e-4caf-8a18-1ef977879fe8', 'oracle_id': 'de08f5d4-8868-4d0f-8c0e-d0d3a2105581', 'name': 'Angrath, Captain of Chaos'}
+{"dataset": "scryfall-tap", "dataset_id": "135d3846feb2065e2487f8054424bfca798e0aae"}
+Processing record: {'id': 'f17103dd-f31b-4f6e-b2ea-4ea91815bdd6', 'oracle_id': '2737a78c-77ed-4bd0-ac0d-39ca2d816e83', 'name': 'Angrath, Minotaur Pirate'}
+{"dataset": "scryfall-tap", "dataset_id": "135d3846feb2065e2487f8054424bfca798e0aae"}
+Processing record: {'id': '48181263-11fd-444e-9fef-02ccfe016c8c', 'oracle_id': '85791f11-44ab-4405-b284-1d91c7e0afbb', 'name': "Angrath's Ambusher"}
+{"dataset": "scryfall-tap", "dataset_id": "135d3846feb2065e2487f8054424bfca798e0aae"}
+Processing record: {'id': '708006ba-d494-4093-b108-8249b110831e', 'oracle_id': '61f3a549-77b4-4403-afa2-a0f02603f2e6', 'name': "Angrath's Fury"}
+{"dataset": "scryfall-tap", "dataset_id": "135d3846feb2065e2487f8054424bfca798e0aae"}
+Processing record: {'id': 'f5a39379-7313-463a-9a02-e5157b9557f4', 'oracle_id': '850a8369-94ab-43b6-8cfe-286e3623b19d', 'name': "Angrath's Rampage"}
+{"dataset": "scryfall-tap", "dataset_id": "135d3846feb2065e2487f8054424bfca798e0aae"}
+Processing record: {'id': 'a4d76d03-4fcf-42f8-8c2e-ad6b03d58677', 'oracle_id': '092ceffb-1ee4-452c-b15e-5b79267d42a6', 'name': 'Angrath, the Flame-Chained'}
+{"dataset": "scryfall-tap", "dataset_id": "135d3846feb2065e2487f8054424bfca798e0aae"}
+Processing record: {'id': '16de91dc-5d82-43ec-84ad-67bae644795a', 'oracle_id': 'ad09b3c3-c8e7-481c-8c45-e7f234935117', 'name': 'Anguished Unmaking'}
+{"dataset": "scryfall-tap", "dataset_id": "135d3846feb2065e2487f8054424bfca798e0aae"}
+Processing record: {'id': '462e887d-6b91-4b31-9487-2780ffe8943f', 'oracle_id': 'd3c3f293-6790-4dce-900a-8af0464c2572', 'name': 'Anhelo, the Painter'}
+{"dataset": "scryfall-tap", "dataset_id": "135d3846feb2065e2487f8054424bfca798e0aae"}
+Processing record: {'id': '8b796a56-1611-4835-ac5b-48b4e9263685', 'oracle_id': '991fd651-0cba-41ee-855a-d01a1a7c8f60', 'name': 'Anikthea, Hand of Erebos'}
+{"dataset": "scryfall-tap", "dataset_id": "135d3846feb2065e2487f8054424bfca798e0aae"}
+Processing record: {'id': '1489943b-c010-488e-9c9d-87f4af67a4e4', 'oracle_id': 'c0d8fef4-65f4-4769-982d-b397d2b7e977', 'name': 'Animate Dead'}
