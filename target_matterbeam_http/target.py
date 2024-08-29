@@ -21,10 +21,6 @@ class TargetMatterbeamHttp(Target):
             th.StringType,
             secret=True,
         ),
-        th.Property(
-            "dataset_name",
-            th.StringType,
-        ),
     ).to_dict()
 
     default_sink_class = MatterbeamHttpSink

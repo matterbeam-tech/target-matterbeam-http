@@ -19,13 +19,10 @@ class MatterbeamHttpSink(RecordSink):
             context: Stream partition or context dictionary.
         """
 
-        print("Processing record: {}".format(record))
-
         api_token = self.config.get("api_token")
-        dataset_name = self.config.get("dataset_name")
 
         response = requests.put(
-            f"https://dev-api.matterbeam.com/datasets/{dataset_name}/record",
+            f"https://dev-api.matterbeam.com/datasets/{self.stream_name}/record",
             json=record,
             headers={
                 "Authorization": f"Token {api_token}",
