@@ -4,17 +4,7 @@
 
 Build with the [Meltano Target SDK](https://sdk.meltano.com).
 
-<!--
-
-Developer TODO: Update the below as needed to correctly describe the install procedure. For instance, if you do not have a PyPi repo, or if you want users to directly install from your git repo, you can modify this step as appropriate.
-
 ## Installation
-
-Install from PyPi:
-
-```bash
-pipx install target-matterbeam-http
-```
 
 Install from GitHub:
 
@@ -22,21 +12,14 @@ Install from GitHub:
 pipx install git+https://github.com/ORG_NAME/target-matterbeam-http.git@main
 ```
 
--->
-
 ## Configuration
 
 ### Accepted Config Options
 
-<!--
-Developer TODO: Provide a list of config options accepted by the target.
-
-This section can be created by copy-pasting the CLI output from:
-
-```
-target-matterbeam-http --about --format=markdown
-```
--->
+| Setting   | Required | Default | Description |
+| :-------- | :------: | :-----: | :---------- |
+| api_token |   True   |  None   |             |
+| api_url   |   True   |  None   |             |
 
 A full list of supported settings and capabilities for this
 target is available by running:
@@ -66,6 +49,7 @@ You can easily run `target-matterbeam-http` by itself or in a pipeline using [Me
 ```bash
 target-matterbeam-http --version
 target-matterbeam-http --help
+
 # Test using the "Carbon Intensity" sample:
 tap-carbon-intensity | target-matterbeam-http --config /path/to/target-matterbeam-http-config.json
 ```
@@ -84,7 +68,7 @@ poetry install
 ### Create and Run Tests
 
 Create tests within the `tests` subfolder and
-  then run:
+then run:
 
 ```bash
 poetry run pytest

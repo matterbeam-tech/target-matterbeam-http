@@ -20,9 +20,10 @@ class MatterbeamHttpSink(RecordSink):
         """
 
         api_token = self.config.get("api_token")
+        base_url = self.config.get("api_url")
 
         response = requests.put(
-            f"https://dev-api.matterbeam.com/datasets/{self.stream_name}/record",
+            f"{base_url}/datasets/{self.stream_name}/record",
             json=record,
             headers={
                 "Authorization": f"Token {api_token}",

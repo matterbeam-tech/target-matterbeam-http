@@ -16,11 +16,8 @@ class TargetMatterbeamHttp(Target):
     name = "target-matterbeam-http"
 
     config_jsonschema = th.PropertiesList(
-        th.Property(
-            "api_token",
-            th.StringType,
-            secret=True,
-        ),
+        th.Property("api_token", th.StringType, secret=True, required=True),
+        th.Property("api_url", th.StringType, secret=True, required=True),
     ).to_dict()
 
     default_sink_class = MatterbeamHttpSink

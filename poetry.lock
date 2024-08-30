@@ -1193,7 +1193,7 @@ url = "../../Playground/tap-scryfall"
 
 [[package]]
 name = "tap-stripe"
-version = "0.0.3"
+version = "0.0.4"
 description = "Singer tap for Stripe, built with the Meltano Singer SDK."
 optional = false
 python-versions = ">=3.8"
