@@ -9,17 +9,18 @@ Build with the [Meltano Target SDK](https://sdk.meltano.com).
 Install from GitHub:
 
 ```bash
-pipx install git+https://github.com/ORG_NAME/target-matterbeam-http.git@main
+pipx install git+https://github.com/matterbeam-tech/target-matterbeam-http.git@main
 ```
 
 ## Configuration
 
-### Accepted Config Options
+## Settings
 
-| Setting   | Required | Default | Description |
-| :-------- | :------: | :-----: | :---------- |
-| api_token |   True   |  None   |             |
-| api_url   |   True   |  None   |             |
+| Setting      | Required | Default | Description |
+| :----------- | :------: | :-----: | :---------- |
+| api_token    |   True   |  None   |             |
+| api_url      |   True   |  None   |             |
+| api_batching |  False   |    1    |             |
 
 A full list of supported settings and capabilities for this
 target is available by running:
