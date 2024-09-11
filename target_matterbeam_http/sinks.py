@@ -5,10 +5,6 @@ from singer_sdk.sinks import BatchSink, RecordSink
 
 import requests
 
-from target_matterbeam_http.utils.debug import debug_requests_on
-
-debug_requests_on()
-
 
 class MatterbeamHttpBatchSink(BatchSink):
 
