@@ -19,10 +19,9 @@ class MatterbeamHttpBatchSink(BatchSink):
         base_url = self.config.get("api_url")
 
         records = context["records"]
-        dataset_name = f"{self.stream_name}__batched"
 
         requests.put(
-            f"{base_url}/datasets/{dataset_name}/records",
+            f"{base_url}/datasets/{self.stream_name}/records",
             json=records,
             headers={
                 "Authorization": f"Token {api_token}",
