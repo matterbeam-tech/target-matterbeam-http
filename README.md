@@ -16,11 +16,10 @@ pipx install git+https://github.com/matterbeam-tech/target-matterbeam-http.git@m
 
 ## Settings
 
-| Setting      | Required | Default | Description |
-| :----------- | :------: | :-----: | :---------- |
-| api_token    |   True   |  None   |             |
-| api_url      |   True   |  None   |             |
-| api_batching |  False   |    1    |             |
+| Setting   | Required | Default | Description |
+| :-------- | :------: | :-----: | :---------- |
+| api_token |   True   |  None   |             |
+| api_url   |   True   |  None   |             |
 
 A full list of supported settings and capabilities for this
 target is available by running:
