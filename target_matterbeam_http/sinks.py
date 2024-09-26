@@ -1,29 +1,31 @@
-"""MatterbeamHttp target sink class, which handles writing streams."""
+"""Matterbeam HTTP target sink class, which handles writing streams."""
 
 from __future__ import annotations
-from typing import Sequence, Any
 
-from functools import cached_property
-from http import HTTPStatus
-from urllib.parse import urlparse
 import datetime
 import json
+from functools import cached_property
+from http import HTTPStatus
+from typing import TYPE_CHECKING, Any, Sequence
+from urllib.parse import urlparse
 
 import backoff
-import requests
-
-from singer_sdk import Target
+import requests  # type: ignore[import-untyped]
 from singer_sdk.exceptions import FatalAPIError, RetriableAPIError
-from singer_sdk.helpers.types import Context
 from singer_sdk.sinks import BatchSink
+
+if TYPE_CHECKING:
+    from singer_sdk import Target
+    from singer_sdk.helpers.types import Context
 
 DEFAULT_REQUEST_TIMEOUT = 300  # 5 minutes
 
 
 class CustomJSONEncoder(json.JSONEncoder):
-    """JSON serializer for objects not serializable by default"""
+    """JSON serializer for objects not serializable by default."""
 
-    def default(self, obj):
+    def default(self, obj: dict) -> dict:
+        """TODO."""
         if isinstance(obj, datetime.datetime):
             return obj.isoformat()
 
@@ -51,15 +53,14 @@ class HttpBatchSink(BatchSink):
         schema: dict,
         key_properties: Sequence[str] | None,
     ) -> None:
-
+        """TODO."""
         super().__init__(target, stream_name, schema, key_properties)
 
         self._requests_session = requests.Session()
 
     @property
     def endpoint(self) -> str:
-        """Get the stream entity URL"""
-
+        """Get the stream entity URL."""
         raise NotImplementedError
 
     @property
@@ -69,7 +70,6 @@ class HttpBatchSink(BatchSink):
         Returns:
             Dictionary of HTTP headers to use as a base for every request.
         """
-
         return {}
 
     @property
@@ -79,7 +79,6 @@ class HttpBatchSink(BatchSink):
         Returns:
             The :class:`requests.Session` object for HTTP requests.
         """
-
         if not self._requests_session:
             self._requests_session = requests.Session()
 
@@ -94,13 +93,11 @@ class HttpBatchSink(BatchSink):
         Returns:
             The request timeout limit as number of seconds.
         """
-
         return DEFAULT_REQUEST_TIMEOUT
 
     @property
     def url_base(self) -> str:
-        """The base request URL"""
-
+        """The base request URL."""
         raise NotImplementedError
 
     @cached_property
@@ -110,39 +107,40 @@ class HttpBatchSink(BatchSink):
         Returns:
             The user agent string.
         """
-
         return self.config.get("user_agent", "matterbeam-tap/0.0.0")
 
     def get_url_params(
         self,
-        context: Context | None,
+        context: Context | None,  # noqa: ARG002
     ) -> dict[str, Any] | str:
         """Return a dictionary or string of URL query parameters.
 
         Args:
             context: Stream partition or context dictionary.
+
         Returns:
             Dictionary or encoded string with URL query parameters to use in the
                 request.
         """
-
         return {}
 
     @backoff.on_exception(
         backoff.expo, requests.exceptions.RequestException, max_tries=5
     )
     def make_request(
-        self, prepared_request: requests.PreparedRequest, context: Context | None
+        self,
+        prepared_request: requests.PreparedRequest,
+        context: Context | None,  # noqa: ARG002
     ) -> requests.Response:
         """Make a request using the prepared request object.
 
         Args:
-            prepared: The prepared request object.
+            prepared_request: The prepared request object.
+            context: Stream partition or context dictionary.
 
         Returns:
             The response object.
         """
-
         resp = self.requests_session.send(
             prepared_request, timeout=self.timeout, allow_redirects=self.allow_redirects
         )
@@ -156,7 +154,7 @@ class HttpBatchSink(BatchSink):
         self,
         context: Context | None,
     ) -> requests.PreparedRequest:
-        """Prepare a request object
+        """Prepare a request object.
 
         Args:
             context: Stream partition or context dictionary.
@@ -165,7 +163,6 @@ class HttpBatchSink(BatchSink):
             Build a request with the stream's URL, path, query parameters,
             HTTP headers and authenticator.
         """
-
         headers = self.http_headers
         http_method = self.http_method
         url = self.endpoint
@@ -188,8 +185,11 @@ class HttpBatchSink(BatchSink):
         context: Context | None,
     ) -> dict | None:
         """Prepare the data payload for the REST API request."""
+        records = []
 
-        records = context["records"]
+        if context is not None:
+            records = context["records"]
+
         return json.loads(json.dumps(records, cls=CustomJSONEncoder))
 
     def process_batch(self, context: Context) -> None:
@@ -198,7 +198,6 @@ class HttpBatchSink(BatchSink):
         Args:
             context: Stream partition or context dictionary.
         """
-
         prepared_request = self.prepare_request(context=context)
         self.make_request(context=context, prepared_request=prepared_request)
 
@@ -213,8 +212,7 @@ class HttpBatchSink(BatchSink):
         Returns:
             str: The error message
         """
-
-        full_path = urlparse(response.url).path or self.path
+        full_path = urlparse(response.url).path
 
         error_type = (
             "Client"
@@ -241,7 +239,6 @@ class HttpBatchSink(BatchSink):
             FatalAPIError: If the request is not retriable.
             RetriableAPIError: If the request is retriable.
         """
-
         if (
             response.status_code in self.extra_retry_statuses
             or response.status_code >= HTTPStatus.INTERNAL_SERVER_ERROR
@@ -265,8 +262,7 @@ class MatterbeamHttpSink(HttpBatchSink):
 
     @property
     def endpoint(self) -> str:
-        """Get the stream entity URL"""
-
+        """Get the stream entity URL."""
         return f"{self.url_base}/datasets/{self.stream_name}/records"
 
     @property
@@ -276,7 +272,6 @@ class MatterbeamHttpSink(HttpBatchSink):
         Returns:
             Dictionary of HTTP headers to use as a base for every request.
         """
-
         return {
             "Authorization": f"Token {self.config['api_token']}",
             "Content-Type": "application/json",
@@ -284,6 +279,5 @@ class MatterbeamHttpSink(HttpBatchSink):
 
     @property
     def url_base(self) -> str:
-        """The base request URL"""
-
-        return self.config.get("api_url")
+        """The base request URL."""
+        return self.config["api_url"]

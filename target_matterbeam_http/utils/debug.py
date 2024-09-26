@@ -1,5 +1,5 @@
-import logging
 import contextlib
+import logging
 from http.client import HTTPConnection
 
 

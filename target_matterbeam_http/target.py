@@ -2,10 +2,9 @@
 
 from __future__ import annotations
 
-
 from singer_sdk import typing as th
-from singer_sdk.target_base import Target
 from singer_sdk.sinks import Sink
+from singer_sdk.target_base import Target
 
 from target_matterbeam_http.sinks import MatterbeamHttpSink
 
