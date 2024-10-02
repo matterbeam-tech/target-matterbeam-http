@@ -2,11 +2,15 @@
 
 from __future__ import annotations
 
+from typing import TYPE_CHECKING
+
 from singer_sdk import typing as th
-from singer_sdk.sinks import Sink
 from singer_sdk.target_base import Target
 
 from target_matterbeam_http.sinks import MatterbeamHttpSink
+
+if TYPE_CHECKING:
+    from singer_sdk.sinks import Sink
 
 
 class TargetMatterbeamHttp(Target):
@@ -19,7 +23,7 @@ class TargetMatterbeamHttp(Target):
         th.Property("api_url", th.StringType, secret=True, required=True),
     ).to_dict()
 
-    def get_sink_class(self, stream_name: str) -> type[Sink]:
+    def get_sink_class(self, stream_name: str) -> type[Sink]:  # noqa: ARG002
         """Get sink for a stream.
 
         Developers can override this method to return a custom Sink type depending
@@ -34,7 +38,6 @@ class TargetMatterbeamHttp(Target):
         Returns:
             The sink class to be used with the stream.
         """
-
         return MatterbeamHttpSink
 
 
