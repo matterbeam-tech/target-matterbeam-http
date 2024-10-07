@@ -28,7 +28,7 @@ backoff = "^2.2.1"
 pytest = ">=8"
 singer-sdk = { version="~=0.40.0", extras = ["testing"] }
 pytest-sugar = "^1.0.0"
-ruff = "^0.6.7"
+ruff = "^0.6.9"
 mypy = "^1.11.2"
 
 [tool.poetry.extras]
