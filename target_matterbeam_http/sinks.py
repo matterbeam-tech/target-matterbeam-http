@@ -3,6 +3,7 @@
 from __future__ import annotations
 
 import datetime
+import decimal
 import json
 from functools import cached_property
 from http import HTTPStatus
@@ -25,7 +26,9 @@ class CustomJSONEncoder(json.JSONEncoder):
     """JSON serializer for objects not serializable by default."""
 
     def default(self, obj: dict) -> dict:
-        """TODO."""
+        """A serializable representation of obj."""
+        if isinstance(obj, decimal.Decimal):
+            return str(obj)
         if isinstance(obj, datetime.datetime):
             return obj.isoformat()
 
@@ -53,7 +56,7 @@ class HttpBatchSink(BatchSink):
         schema: dict,
         key_properties: Sequence[str] | None,
     ) -> None:
-        """TODO."""
+        """Initialize target sink."""
         super().__init__(target, stream_name, schema, key_properties)
 
         self._requests_session = requests.Session()
