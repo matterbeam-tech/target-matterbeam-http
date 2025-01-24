@@ -19,14 +19,14 @@ license = "Apache-2.0"
 
 [tool.poetry.dependencies]
 python = ">=3.8,<4.0"
-singer-sdk = { version="~=0.40.0", extras = ["faker"] }
+singer-sdk = { version="~=0.42.1", extras = ["faker"] }
 fs-s3fs = { version = "~=1.1.1", optional = true }
 requests = "~=2.32.3"
 backoff = "^2.2.1"
 
 [tool.poetry.dev-dependencies]
 pytest = ">=8"
-singer-sdk = { version="~=0.40.0", extras = ["testing"] }
+singer-sdk = { version="~=0.42.1", extras = ["testing"] }
 pytest-sugar = "^1.0.0"
 ruff = "^0.6.7"
 mypy = "^1.11.2"
