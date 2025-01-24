@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.1](https://github.com/matterbeam-tech/target-matterbeam-http/compare/v1.0.0...v1.0.1) (2024-10-24)
+
+
+### Bug Fixes
+
+* serialize decimals when posting ([93e436c](https://github.com/matterbeam-tech/target-matterbeam-http/commit/93e436c6bef67d058e5a5f597c09193a9960fe7f))
+
 ## 1.0.0 (2024-09-26)
 
 

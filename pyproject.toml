@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "target-matterbeam-http"
-version = "1.0.0"
+version = "1.0.1"
 description = "Singer target for MatterbeamHttp, built with the Meltano Singer SDK."
 readme = "README.md"
 authors = ["Dane Thurber <dane@matterbeam.com>"]
